@@ -1,3 +1,3 @@
 # test
 
-This is just to play around and discover Github
+Welcome to my first github page, more and more awesome projects will be added soon enough ^^
